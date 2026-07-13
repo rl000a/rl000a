@@ -1,104 +1,120 @@
 <div align="center">
 
-# Hi, I'm René 👋
+<img src="https://readme-typing-svg.demolab.com?font=Geist&weight=600&size=22&duration=4000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Product+Owner+who+builds.;AI-native+tools.+Premium+UX.;Enterprise+thinking.+Startup+speed." alt="Typing intro" />
 
-### Product Owner · AI Product Builder · Developer Experience
+<br/><br/>
 
-*I turn complex problems into products people feel — then ship the ones that matter.*
+**Mercedes-Benz PO by day · AI product builder by night**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_DOMAIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Website](https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=safari&logoColor=white)](https://YOUR_DOMAIN)
+[![Email](https://img.shields.io/badge/Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
 
 ---
 
-## What I do
+## ✦ The short version
 
-**Product thinking + hands-on building.** Enterprise PO by day, AI-native builder by night. I don't portfolio dump code — I show **products, problems solved, and how I think**.
+I don't use GitHub as a **code dump**. I use it as a **product billboard**.
 
-| | |
-|---|---|
-| **Open source** | Developer tools where code *is* the story ([AI Cost Center Companion](https://github.com/rl000a/ai-cost-center-companion)) |
-| **Case studies** | Proprietary products told through pitch, demo & design ([WEINKYOU](#weinkyou)) |
-| **Patterns** | Sanitized enterprise workflows — architecture & lessons, not employer IP |
+| Public GitHub | Private repos |
+|:---:|:---:|
+| Pitches · demos · case studies | Full source · datasets · IP |
+| *"Here's what I built and why"* | *"Here's how I built it"* |
 
----
-
-## Featured work
-
-### 🎯 [AI Cost Center Companion](https://github.com/rl000a/ai-cost-center-companion) · *open source*
-
-> *"Which cost center consumed our Cursor budget?"* — answered automatically. Local-first. No IDE modification.
-
-Built with **Tauri + Rust** because enterprise teams asked *"does this phone home?"* before *"does it work?"*
-
-[→ Repo & architecture](https://github.com/rl000a/ai-cost-center-companion) · [→ Demo GIF](#) *(coming)*
-
-<img src="https://raw.githubusercontent.com/rl000a/ai-cost-center-companion/main/docs/assets/dashboard-preview.svg" width="640" alt="AI Cost Center Companion dashboard"/>
+**Recruiters get the story. Qualified conversations get the repo.**
 
 ---
 
-### 🌍 WEINKYOU · *proprietary · case study*
+## ✦ Selected work
 
-> **Emotion before utility.** A map-first global discovery experience — not another directory with pins.
+<table>
+<tr>
+<td width="50%" align="center">
 
-| | |
-|---|---|
-| **Scale** | 12,000+ studios · 40+ countries |
-| **Insight** | Users explore mood & style before they search |
-| **Craft** | Cinematic landing → utility map · Geist · Mapbox-native UX |
-| **Status** | Private product — **not open source** |
+### 🌍 WEINKYOU
+**Emotion before utility**
 
-**The pitch:** Tattoo discovery is emotional. Yellow-pages UX fails it. WEINKYOU opens on a spinning globe narrative, then drops you into a fullscreen map where clustering, style filters, and studio drawers feel premium — not utilitarian.
+Map-first global discovery · 12k+ studios · premium Mapbox UX
 
-[→ Live demo](#) · [→ Design principles](#) · *Code available on request for qualified conversations*
+*Proprietary product*
 
-<img src="assets/weinkyou-preview.svg" width="640" alt="WEINKYOU — map-first explore experience"/>
+[Case study →](https://github.com/rl000a/showcase-weinkyou)
+
+<img src="assets/weinkyou-preview.svg" width="100%" alt="WEINKYOU"/>
+
+</td>
+<td width="50%" align="center">
+
+### 🎯 AI Cost Center Companion
+**Cursor spend, finally attributed**
+
+Which cost center paid for AI? Local-first. No IDE hacks.
+
+*Source in private repo*
+
+[Case study →](https://github.com/rl000a/showcase-ai-cost-center)
+
+<img src="assets/cost-center-preview.svg" width="100%" alt="AI Cost Center"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 📋 Journey Planning Hub
+**PI planning without spreadsheet chaos**
+
+Rank → capacity → readiness → **commit** to Jira
+
+*Enterprise case study · sanitized*
+
+[Case study →](https://github.com/rl000a/showcase-journey-planning)
+
+</td>
+<td width="50%" align="center">
+
+### 🔌 Cursor & AI Ops
+**Runbooks · MCP · n8n**
+
+Patterns from enterprise AI governance — published as **playbooks**, not proprietary code
+
+*Coming to showcase repos*
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📋 Journey Planning Hub · *enterprise case study*
-
-> PI planning under pressure — one hub, one journey, **commitment-gated** Jira sync.
-
-Replaced spreadsheet chaos for a multi-team SAFe train. Draft state and committed state are unmistakable — Jira only updates when the RTE explicitly commits.
-
-*Sanitized case study · no employer data · architecture patterns available on request*
-
----
-
-### 🔌 Cursor & automation experiments
-
-Agent runbooks · MCP connection kits · n8n workflow patterns — extracted from real enterprise AI governance work, published as **patterns**, not proprietary implementations.
-
----
-
-## How I portfolio
+## ✦ What I optimize for
 
 ```
-Open source     →  dev tools where cloning proves the thesis
-Case studies    →  proprietary products (pitch + demo + metrics)
-Patterns        →  enterprise learnings without leaking IP
+Product instinct  →  Does this solve a real pain?
+Craft             →  Does it feel premium?
+Trust             →  Local-first · commitment gates · honest metrics
+Speed             →  Cursor · Claude · ship in days not quarters
 ```
-
-**Not everything needs to be a public repo.** Recruiters hire product judgment — not repo count.
 
 ---
 
-## Stack I build with
+## ✦ Stack
 
 `Cursor` · `Claude` · `TypeScript` · `Rust` · `Next.js` · `Tauri` · `Mapbox` · `MCP` · `n8n`
 
 ---
 
-## Stats
+## ✦ Activity
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=rl000a&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-streak-stats.daily.dev?user=rl000a&theme=tokyonight&hide_border=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=rl000a&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=issues" />
+<img height="150" src="https://github-readme-streak-stats.daily.dev?user=rl000a&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=rl000a&color=6366f1&style=flat-square&label=profile+views" />
 
 </div>
 
@@ -106,6 +122,12 @@ Patterns        →  enterprise learnings without leaking IP
 
 <div align="center">
 
-**Building AI products that teams trust — and users feel.**
+### Building AI products people trust — and feel.
+
+*Private repos & live demos available for the right conversation.*
+
+<br/>
+
+**[LinkedIn](https://linkedin.com/in/YOUR_HANDLE)** · **[Email](mailto:YOUR_EMAIL)**
 
 </div>
