@@ -27,7 +27,7 @@ Map-first global discovery · 12k+ studios · premium Mapbox UX
 
 [Case study →](https://github.com/rl000a/showcase-weinkyou)
 
-<img src="assets/weinkyou-preview.svg" width="100%" alt="WEINKYOU"/><img width="1536" height="1024" alt="ChatGPT Image 14  Juli 2026, 01_38_31" src="https://github.com/user-attachments/assets/c2fe3db4-d189-4c06-871c-beace6efa1ab" />
+
 
 
 </td>
@@ -41,7 +41,7 @@ Which cost center paid for AI? Local-first. No IDE hacks.
 *Source in private repo*
 
 [Case study →](https://github.com/rl000a/showcase-ai-cost-center)
-
+<img src="assets/weinkyou-preview.svg" width="100%" alt="WEINKYOU"/><img width="1536" height="1024" alt="ChatGPT Image 14  Juli 2026, 01_38_31" src="https://github.com/user-attachments/assets/c2fe3db4-d189-4c06-871c-beace6efa1ab" />
 <img src="assets/cost-center-preview.svg" width="100%" alt="AI Cost Center"/>
 
 </td>
