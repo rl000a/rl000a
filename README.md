@@ -2,9 +2,9 @@
 
 # Hi, I'm René 👋
 
-### Product Owner · AI-Native Builder · Developer Productivity
+### Product Owner · AI Product Builder · Developer Experience
 
-*I ship tools that help teams work smarter with AI — from Cursor spend attribution to enterprise planning automation.*
+*I turn complex problems into products people feel — then ship the ones that matter.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_DOMAIN)
@@ -14,52 +14,82 @@
 
 ---
 
-## About
+## What I do
 
-Product Owner who **builds**, not just specifies. I combine enterprise product thinking with hands-on work in **Cursor**, **Claude**, and modern full-stack tooling.
+**Product thinking + hands-on building.** Enterprise PO by day, AI-native builder by night. I don't portfolio dump code — I show **products, problems solved, and how I think**.
 
-**Focus areas:** AI developer tools · local-first privacy · enterprise workflow automation · map-native product UX
-
----
-
-## Tech
-
-`TypeScript` · `Rust` · `React` · `Next.js` · `Tauri` · `Python` · `SQLite` · `Mapbox` · `n8n` · `MCP` · `Cursor`
+| | |
+|---|---|
+| **Open source** | Developer tools where code *is* the story ([AI Cost Center Companion](https://github.com/rl000a/ai-cost-center-companion)) |
+| **Case studies** | Proprietary products told through pitch, demo & design ([WEINKYOU](#weinkyou)) |
+| **Patterns** | Sanitized enterprise workflows — architecture & lessons, not employer IP |
 
 ---
 
 ## Featured work
 
-| | Project | One line |
-|---|---------|----------|
-| 🎯 | [**AI Cost Center Companion**](https://github.com/rl000a/ai-cost-center-companion) | Attribute Cursor AI spend to cost centers — automatically, locally |
-| 🌍 | [**WEINKYOU**](https://github.com/rl000a/weinkyou) | Map-first global studio discovery — 12k+ POIs, premium UX |
-| 📋 | [**Journey Planning Hub**](https://github.com/rl000a/journey-planning-hub) | PI planning hub with commitment-gated Jira sync |
-| 🔌 | [**Cursor MCP Toolkit**](https://github.com/rl000a/cursor-mcp-toolkit) | MCP servers + agent runbooks for dev productivity |
+### 🎯 [AI Cost Center Companion](https://github.com/rl000a/ai-cost-center-companion) · *open source*
 
-<details>
-<summary><strong>See project previews</strong></summary>
+> *"Which cost center consumed our Cursor budget?"* — answered automatically. Local-first. No IDE modification.
 
-<br/>
+Built with **Tauri + Rust** because enterprise teams asked *"does this phone home?"* before *"does it work?"*
 
-**AI Cost Center Companion** — dashboard totals by cost center  
-<img src="https://raw.githubusercontent.com/rl000a/ai-cost-center-companion/main/docs/assets/dashboard-preview.svg" width="720" alt="Dashboard preview"/>
+[→ Repo & architecture](https://github.com/rl000a/ai-cost-center-companion) · [→ Demo GIF](#) *(coming)*
 
-**WEINKYOU** — map-first explore experience  
-<img src="https://raw.githubusercontent.com/rl000a/weinkyou/main/docs/assets/explore-preview.svg" width="720" alt="WEINKYOU explore preview"/>
-
-**Journey Planning Hub** — rank board under PI pressure  
-<img src="https://raw.githubusercontent.com/rl000a/journey-planning-hub/main/docs/assets/rank-board-preview.svg" width="720" alt="Rank board preview"/>
-
-</details>
+<img src="https://raw.githubusercontent.com/rl000a/ai-cost-center-companion/main/docs/assets/dashboard-preview.svg" width="640" alt="AI Cost Center Companion dashboard"/>
 
 ---
 
-## Currently building
+### 🌍 WEINKYOU · *proprietary · case study*
 
-- MCP servers for Jira / Confluence connection kits
-- n8n workflow library for LLM-assisted ops
-- Open-source patterns from enterprise AI governance work
+> **Emotion before utility.** A map-first global discovery experience — not another directory with pins.
+
+| | |
+|---|---|
+| **Scale** | 12,000+ studios · 40+ countries |
+| **Insight** | Users explore mood & style before they search |
+| **Craft** | Cinematic landing → utility map · Geist · Mapbox-native UX |
+| **Status** | Private product — **not open source** |
+
+**The pitch:** Tattoo discovery is emotional. Yellow-pages UX fails it. WEINKYOU opens on a spinning globe narrative, then drops you into a fullscreen map where clustering, style filters, and studio drawers feel premium — not utilitarian.
+
+[→ Live demo](#) · [→ Design principles](#) · *Code available on request for qualified conversations*
+
+<img src="assets/weinkyou-preview.svg" width="640" alt="WEINKYOU — map-first explore experience"/>
+
+---
+
+### 📋 Journey Planning Hub · *enterprise case study*
+
+> PI planning under pressure — one hub, one journey, **commitment-gated** Jira sync.
+
+Replaced spreadsheet chaos for a multi-team SAFe train. Draft state and committed state are unmistakable — Jira only updates when the RTE explicitly commits.
+
+*Sanitized case study · no employer data · architecture patterns available on request*
+
+---
+
+### 🔌 Cursor & automation experiments
+
+Agent runbooks · MCP connection kits · n8n workflow patterns — extracted from real enterprise AI governance work, published as **patterns**, not proprietary implementations.
+
+---
+
+## How I portfolio
+
+```
+Open source     →  dev tools where cloning proves the thesis
+Case studies    →  proprietary products (pitch + demo + metrics)
+Patterns        →  enterprise learnings without leaking IP
+```
+
+**Not everything needs to be a public repo.** Recruiters hire product judgment — not repo count.
+
+---
+
+## Stack I build with
+
+`Cursor` · `Claude` · `TypeScript` · `Rust` · `Next.js` · `Tauri` · `Mapbox` · `MCP` · `n8n`
 
 ---
 
@@ -70,14 +100,12 @@ Product Owner who **builds**, not just specifies. I combine enterprise product t
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=rl000a&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="160" src="https://github-readme-streak-stats.daily.dev?user=rl000a&theme=tokyonight&hide_border=true" />
 
-<img src="https://komarev.com/ghpvc/?username=rl000a&color=6366f1&style=flat-square&label=views" alt="Profile views" />
-
 </div>
 
 ---
 
 <div align="center">
 
-**Open to conversations about AI products, developer experience, and tools that teams actually use.**
+**Building AI products that teams trust — and users feel.**
 
 </div>
