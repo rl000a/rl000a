@@ -6,9 +6,8 @@
 
 **Mercedes-Benz PO by day · AI product builder by night**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Website](https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=safari&logoColor=white)](https://YOUR_DOMAIN)
-[![Email](https://img.shields.io/badge/Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reneloaiza)
+[![Email](https://img.shields.io/badge/Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rene.loaiza@icloud.com)
 
 </div>
 ---
