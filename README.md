@@ -11,20 +11,6 @@
 [![Email](https://img.shields.io/badge/Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
-
----
-
-## ✦ The short version
-
-I don't use GitHub as a **code dump**. I use it as a **product billboard**.
-
-| Public GitHub | Private repos |
-|:---:|:---:|
-| Pitches · demos · case studies | Full source · datasets · IP |
-| *"Here's what I built and why"* | *"Here's how I built it"* |
-
-**Recruiters get the story. Qualified conversations get the repo.**
-
 ---
 
 ## ✦ Selected work
