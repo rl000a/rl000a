@@ -12,7 +12,7 @@
 </div>
 ---
 
-## ✦ Selected work
+## ✦ What I build
 
 <table>
 <tr>
@@ -27,8 +27,7 @@ Map-first global discovery · 12k+ studios · premium Mapbox UX
 
 [Case study →](https://github.com/rl000a/showcase-weinkyou)
 
-
-
+<img src="assets/weinkyou-preview.svg" width="100%" alt="WEINKYOU"/>
 
 </td>
 <td width="50%" align="center">
@@ -41,7 +40,7 @@ Which cost center paid for AI? Local-first. No IDE hacks.
 *Source in private repo*
 
 [Case study →](https://github.com/rl000a/showcase-ai-cost-center)
-<img src="assets/weinkyou-preview.svg" width="100%" alt="WEINKYOU"/><img width="1536" height="1024" alt="ChatGPT Image 14  Juli 2026, 01_38_31" src="https://github.com/user-attachments/assets/c2fe3db4-d189-4c06-871c-beace6efa1ab" />
+
 <img src="assets/cost-center-preview.svg" width="100%" alt="AI Cost Center"/>
 
 </td>
@@ -49,8 +48,7 @@ Which cost center paid for AI? Local-first. No IDE hacks.
 <tr>
 <td width="50%" align="center">
 
-### 📋 Journey Planning Hub![Uploading ChatGPT Image 14. Juli 2026, 01_38_31.png…]()
-
+### 📋 Journey Planning Hub
 **PI planning without spreadsheet chaos**
 
 Rank → capacity → readiness → **commit** to Jira
@@ -58,6 +56,8 @@ Rank → capacity → readiness → **commit** to Jira
 *Enterprise case study · sanitized*
 
 [Case study →](https://github.com/rl000a/showcase-journey-planning)
+
+<img src="assets/journey-planning-preview.svg" width="100%" alt="Journey Planning Hub"/>
 
 </td>
 <td width="50%" align="center">
@@ -115,6 +115,6 @@ Speed             →  Cursor · Claude · ship in days not quarters
 
 <br/>
 
-**[LinkedIn](https://linkedin.com/in/YOUR_HANDLE)** · **[Email](mailto:YOUR_EMAIL)**
+**[LinkedIn](https://linkedin.com/in/reneloaiza)** · **[Email](mailto:rene.loaiza@icloud.com)**
 
 </div>
