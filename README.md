@@ -19,9 +19,9 @@
 <td width="50%" align="center">
 
 ### 🌍 WEINKYOU
-**Emotion before utility**
+**You don't search for a tattoo. You search for a feeling.**
 
-Map-first global discovery · 12k+ studios · premium Mapbox UX
+Map-first global discovery · 12k+ studios · mood before menu
 
 *Proprietary product*
 
