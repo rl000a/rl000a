@@ -27,7 +27,7 @@ Map-first global discovery · 12k+ studios · premium Mapbox UX
 
 [Case study →](https://github.com/rl000a/showcase-weinkyou)
 
-<img src="assets/weinkyou-preview.svg" width="100%" alt="WEINKYOU"/>
+<img src="https://raw.githubusercontent.com/rl000a/rl000a/main/assets/weinkyou-preview.svg" width="100%" alt="WEINKYOU"/>
 
 </td>
 <td width="50%" align="center">
@@ -41,7 +41,7 @@ Which cost center paid for AI? Local-first. No IDE hacks.
 
 [Case study →](https://github.com/rl000a/showcase-ai-cost-center)
 
-<img src="assets/cost-center-preview.svg" width="100%" alt="AI Cost Center"/>
+<img src="https://raw.githubusercontent.com/rl000a/rl000a/main/assets/cost-center-preview.svg" width="100%" alt="AI Cost Center"/>
 
 </td>
 </tr>
@@ -57,7 +57,7 @@ Rank → capacity → readiness → **commit** to Jira
 
 [Case study →](https://github.com/rl000a/showcase-journey-planning)
 
-<img src="assets/journey-planning-preview.svg" width="100%" alt="Journey Planning Hub"/>
+<img src="https://raw.githubusercontent.com/rl000a/rl000a/main/assets/journey-planning-preview.svg" width="100%" alt="Journey Planning Hub"/>
 
 </td>
 <td width="50%" align="center">
