@@ -37,9 +37,9 @@ Map-first global discovery · 12k+ studios · premium Mapbox UX
 
 Which cost center paid for AI? Local-first. No IDE hacks.
 
-*Source in private repo*
+*Open source · MIT*
 
-[Case study →](https://github.com/rl000a/showcase-ai-cost-center)
+[Source →](https://github.com/rl000a/ai-cost-center-companion) · [Overview →](https://github.com/rl000a/showcase-ai-cost-center)
 
 <img src="https://raw.githubusercontent.com/rl000a/rl000a/main/assets/cost-center-preview.svg" width="100%" alt="AI Cost Center"/>
 
