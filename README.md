@@ -62,12 +62,14 @@ Rank → capacity → readiness → **commit** to Jira
 </td>
 <td width="50%" align="center">
 
-### 🔌 Cursor & AI Ops
-**Runbooks · MCP · n8n**
+### ◼ Onyx.OS
+**The Mac companion Studio Onyx runs on**
 
-Patterns from enterprise AI governance — published as **playbooks**, not proprietary code
+Island for the morning · Schreibtisch when you need depth · local SQLite, no cloud
 
-*Coming to showcase repos*
+*Tauri 2 · Rust · React 19 · proprietary*
+
+<img src="https://raw.githubusercontent.com/rl000a/rl000a/main/assets/onyx-preview.svg" width="100%" alt="Onyx.OS"/>
 
 </td>
 </tr>
@@ -88,7 +90,7 @@ Speed             →  Cursor · Claude · ship in days not quarters
 
 ## ✦ Stack
 
-`Cursor` · `Claude` · `TypeScript` · `Rust` · `Next.js` · `Tauri` · `Mapbox` · `MCP` · `n8n`
+`Cursor` · `Claude` · `TypeScript` · `Rust` · `React` · `Tauri` · `Next.js` · `Mapbox` · `MCP` · `n8n`
 
 ---
 
