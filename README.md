@@ -69,7 +69,7 @@ Island for the morning · Schreibtisch when you need depth · local SQLite, no c
 
 *Tauri 2 · Rust · React 19 · proprietary*
 
-<img src="https://raw.githubusercontent.com/rl000a/rl000a/main/assets/onyx-preview.svg" width="100%" alt="Onyx.OS"/>
+<img src="https://raw.githubusercontent.com/rl000a/rl000a/main/assets/onyx-os-preview.svg" width="100%" alt="Onyx.OS"/>
 
 </td>
 </tr>
